@@ -28,7 +28,7 @@ You can view the project live here: [YouTube Clone](https://sasidharan0827.githu
 ## Setup Instructions
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/sasidharan0827/youtube-clone.git
 
 2. Navigate to the project directory:
    
