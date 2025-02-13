@@ -23,7 +23,7 @@ README.md        - Project documentation
 ```
 
 ## Project Link
-You can view the project live here: [YouTube Clone](https://sasidharan0827.github.io/Youtube-clone/)
+You can view the project live here: [YouTube Clone](https://vidtube001.netlify.app/)
 
 ## Setup Instructions
 1. Clone the repository:
