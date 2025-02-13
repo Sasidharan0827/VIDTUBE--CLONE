@@ -1,4 +1,4 @@
-# YouTube Clone
+# VidTube Clone
 
 Welcome to the **YouTube Clone** repository! This project is a simplified version of the YouTube platform, built using HTML and CSS. It showcases video thumbnails, navigation, and a clean layout similar to the YouTube interface.
 
